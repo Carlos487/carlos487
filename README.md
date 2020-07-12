@@ -21,7 +21,7 @@ I'm currently learning:
 - Data visualization
 - Machine Learning
 
-My recent Master's dissertation, focused on creating multiplatform Voice Assistance using:
+My recent Master's dissertation, focused on creating multiplatform Voice Assistant using:
 
 - React Native
 - Voice User Interfaces
